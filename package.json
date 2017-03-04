@@ -44,13 +44,13 @@
     "index.d.ts",
     "index.js"
   ],
-  "homepage": "https://github.com/bouzuya/bath#readme",
+  "homepage": "https://github.com/bouzuya/spa-town#readme",
   "keywords": [],
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bouzuya/bath.git"
+    "url": "https://github.com/bouzuya/spa-town.git"
   },
   "scripts": {
     "build": "npm-run-all -s 'build:ts' 'build:es2015' 'copy'",
